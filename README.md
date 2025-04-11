@@ -1,6 +1,6 @@
-# 🧠 Graph-Based Skin Lesion Classification and Similarity Detection
+# Graph-Based Skin Lesion Classification and Similarity Detection
 
-## 📍 Project Theme
+## Project Theme
 
 **Graph-Based Skin Lesion Classification and Similarity Detection for Early Diagnosis**
 
@@ -8,7 +8,7 @@ In South Africa, especially in rural areas, access to specialized dermatological
 
 ---
 
-## 🔧 Features
+## Features
 
 - Load and visualize skin lesion images
 - Construct graph-based representations from image data (e.g., pixel connectivity, superpixels, or keypoint graphs)
@@ -18,20 +18,13 @@ In South Africa, especially in rural areas, access to specialized dermatological
 
 ---
 
-## 🧠 Motivation
+## Motivation
 
 Skin cancer is a growing concern globally, and early diagnosis significantly improves survival rates. By leveraging graph-based image analysis, we aim to support under-resourced healthcare settings with a tool that mimics the decision-making process of dermatologists using both classification and case-based reasoning.
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java 17+
-- JavaFX SDK
-- OpenCV (optional, for advanced image processing)
-- IDE (e.g., IntelliJ IDEA, Eclipse)
+## Getting Started
 
 ### Build & Run
 
@@ -42,16 +35,6 @@ cd image-graph-viewer
 
 # Open the project in your IDE and run Main.java
 ```
-
----
-
-## 📌 Future Work
-
-- Implement deep learning-enhanced graph classification
-- Support mobile or web-based versions for easier accessibility
-- Enable cloud-based storage and retrieval of lesion cases
-- Add statistical reporting features for use in rural clinics
-- Integrate with healthcare record systems
 
 ---
 
