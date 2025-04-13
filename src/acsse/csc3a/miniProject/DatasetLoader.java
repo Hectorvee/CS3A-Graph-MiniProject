@@ -43,7 +43,11 @@ public class DatasetLoader {
 /*
     * The DatasetLoader class is responsible for loading the dataset of images. The following is how to use it:
     * List<ImageData> trainSet = DatasetLoader.loadDataset("dataset/train");
-    * List<ImageData> valSet = DatasetLoader.loadDataset("dataset/validation");
     * List<ImageData> testSet = DatasetLoader.loadDataset("dataset/test");
  */
 
+/*
+ * The DatasetLoader class is responsible for loading the dataset of images. The following is how to use it:
+ * List<ImageData> trainSet = DatasetLoader.loadDataset("dataset/train");
+ * List<ImageData> testSet = DatasetLoader.loadDataset("dataset/test");
+ */
